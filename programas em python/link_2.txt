@@ -1,0 +1,8 @@
+
+     ### link ou https para o programa de python que faz a descrição de frequência relativa.
+           
+     ###  https://deepnote.com/workspace/christiano-g-217a-0a542223-8d41-4900-b267-df3ee4b840b1/project/frequencia-relativa-00d4e1ff-8422-4245-8cfc-e2975bcfc449/
+
+    ### link ou https para o programa de python sobre modelo de regressão linear simples.
+   
+    ### https://deepnote.com/workspace/christiano-g-217a-0a542223-8d41-4900-b267-df3ee4b840b1/project/regressao-linear-94fa1ccd-6662-4fdd-b6b0-76bf456c56a0/%2Fnotebook.ipynb
