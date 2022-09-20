@@ -1,0 +1,5 @@
+
+        Segue um link de um programa em python que trata de um exemplo sobre 
+        frequência relativa. Descrição do programa no código (realizado no jypther)
+        link: 
+        file:///C:/Users/chris/OneDrive/Documentos/furb/estat%C3%ADstica/Frequ%C3%AAncia%20Relativa%20-%20Leis%20dos%20grandes%20n%C3%BAmeros..html
